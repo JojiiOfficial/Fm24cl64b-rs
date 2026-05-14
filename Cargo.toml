@@ -1,7 +1,8 @@
 [package]
 name = "fm24clxx"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2024"
 
 [dependencies]
 embedded-hal = "1.0.0"
+embedded-storage = "0.3.1"
